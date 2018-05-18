@@ -15,6 +15,6 @@ class Isotope(object):
         self.rho = rho
         self.A = A
         
-    def Macroscopic_cross_section(self)
+    def Macroscopic_cross_section(self):
         N_A = 6.02*10**23
         self.Sigma = self.sigma * self.rho * N_A / self.A
