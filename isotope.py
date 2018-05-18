@@ -1,4 +1,4 @@
-class isotope(object):
+class Isotope(object):
     """
     An isotope. Each isotope has the following properties:
     
